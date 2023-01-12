@@ -1,17 +1,14 @@
 # Modified from:
 #     https://github.com/github/gitignore/blob/master/Unity.gitignore
 
-Animator and Blend Trees Lab/[Ll]ibrary/
-Animator and Blend Trees Lab/[Uu]serSettings/
-Animator and Blend Trees Lab/[Tt]emp/
-Animator and Blend Trees Lab/[Oo]bj/
-Animator and Blend Trees Lab/[Bb]uild/
-Animator and Blend Trees Lab/[Bb]uilds/
-Animator and Blend Trees Lab/[Ll]ogs/
-Animator and Blend Trees Lab/[Mm]emoryCaptures/
-
-#Ignore all .meta file
-*.meta
+/[Ll]ibrary/
+/[Uu]serSettings/
+[Tt]emp/
+[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
